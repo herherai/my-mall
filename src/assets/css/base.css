@@ -54,4 +54,12 @@ a {
 .right {
   float: right;
 }
+.icon {
+    width: 1.8em; 
+    height: 1.8em;
+    vertical-align: -0.15em;
+    fill: currentColor;
+    overflow: hidden;
+    /* color:#ff5777 */
+ }
 
